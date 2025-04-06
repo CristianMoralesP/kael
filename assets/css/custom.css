@@ -1,0 +1,22 @@
+.noshow{
+    display: none;
+}
+
+.halfShow{
+    width: 20%;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.makeRoundImage{
+    border-radius: 100%
+}
+
+.makeitBloc{
+    position: absolute;
+}
